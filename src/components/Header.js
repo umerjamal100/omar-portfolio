@@ -61,7 +61,7 @@ const Header = (props) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://drive.google.com/file/d/1RlPg-swe36BAfT5DBgafeC8jpvUlac0-/view?usp=sharing"
+              href="https://drive.google.com/file/d/1KyiCYN1pf0h1ZxN0xmr_cVSFzVYdN0Ng/view?usp=sharing"
             >
               <Button
                 className={`${classes.headerButton} ${classes.cvButton}`}
